@@ -1,0 +1,29 @@
+aside{
+    background-color: var(--cor1);
+    padding: 0px 10px 5px 10px;
+    border-radius: 10px;
+    font-family: var(--font-padrao);
+}
+
+aside h3 {
+    background-color: var(--cor4);
+    color: white;
+    margin: -10px -10px 0px -10px;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+aside ul {
+    list-style: inside;
+    list-style-type: '\2714\00A0\00A0';
+    columns: 2;
+}
+
+aside a {
+    background-color: var(--cor3);
+    color: var(--cor5);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-decoration: none;
+}
